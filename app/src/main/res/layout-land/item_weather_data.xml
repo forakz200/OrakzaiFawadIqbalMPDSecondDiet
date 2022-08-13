@@ -272,7 +272,7 @@
                                 android:paddingTop="12dp"
                                 android:paddingBottom="12dp"
                                 android:textColor="@color/black"
-                                android:textSize="32sp"
+                                android:textSize="28sp"
                                 android:textStyle="bold"
                                 tools:text="16C" />
                         </androidx.appcompat.widget.LinearLayoutCompat>
@@ -308,7 +308,7 @@
                                 android:paddingTop="12dp"
                                 android:paddingBottom="12dp"
                                 android:textColor="@color/black"
-                                android:textSize="32sp"
+                                android:textSize="28sp"
                                 android:textStyle="bold"
                                 tools:text="16C" />
                         </androidx.appcompat.widget.LinearLayoutCompat>
