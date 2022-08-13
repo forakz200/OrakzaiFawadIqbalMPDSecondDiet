@@ -1,0 +1,25 @@
+<!--Fawad Iqbal Orakzai S2027118-->
+<resources>
+    <string name="app_name">OrakzaiFawadIqbalMPDSecondDiet</string>
+    <string name="day_forecast">3 Day Forecast for %s</string>
+
+    <string name="see_forecast">Tap See 3 day forecast</string>
+    <string name="maximum">Maximum</string>
+    <string name="minimum">Minimum</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind_direction">Wind Direction</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="visibility">Visibility</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="uv_risk">UV Risk</string>
+    <string name="pollution">Pollution</string>
+
+    <string name="download_title">Download Time</string>
+    <string name="download_description">By setting the below times, weather data will be automatically downloaded in the background on the settled time daily.</string>
+    <string name="time_1">First download time</string>
+    <string name="time_2">Second download time</string>
+    <string name="save_time">Save Time</string>
+
+</resources>

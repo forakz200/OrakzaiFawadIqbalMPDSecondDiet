@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Fawad Iqbal Orakzai S2027118-->
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:georss="http://www.georss.org/georss" version="2.0">
+    <channel>
+        <title>BBC Weather - Forecast for Manchester, GB</title>
+        <link>https://www.bbc.co.uk/weather/2643123</link>
+        <description>3-day forecast for Manchester from BBC Weather, including weather, temperature
+            and wind information
+        </description>
+        <language>en</language>
+        <copyright>Copyright: (C) British Broadcasting Corporation, see
+            https://www.bbc.co.uk/usingthebbc/terms-of-use/usingthebbc/terms-of-use/#d7c3c6fd18ea551b9f3f26ecbd4612be
+            for more details
+        </copyright>
+        <pubDate>Fri, 29 Jul 2022 09:36:33 GMT</pubDate>
+        <dc:date>2022-07-29T09:36:33Z</dc:date>
+        <dc:language>en</dc:language>
+        <dc:rights>Copyright: (C) British Broadcasting Corporation, see
+            https://www.bbc.co.uk/usingthebbc/terms-of-use/usingthebbc/terms-of-use/#d7c3c6fd18ea551b9f3f26ecbd4612be
+            for more details
+        </dc:rights>
+        <atom:link href="https://weather-broker-cdn.api.bbci.co.uk/%s/forecast/rss/3day/%s"
+            rel="self" type="application/rss+xml" />
+        <image>
+            <title>BBC Weather - Forecast for Manchester, GB</title>
+            <url>
+                http://static.bbci.co.uk/weather/0.3.203/images/icons/individual_57_icons/en_on_light_bg/12.gif
+            </url>
+            <link>https://www.bbc.co.uk/weather/2643123</link>
+        </image>
+        <item>
+            <title>Today: Light Rain, Minimum Temperature: 13Â°C (56Â°F) Maximum Temperature: 21Â°C
+                (70Â°F)
+            </title>
+            <link>https://www.bbc.co.uk/weather/2643123/day0</link>
+            <description>Maximum Temperature: 21Â°C (70Â°F), Minimum Temperature: 13Â°C (56Â°F),
+                Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1019mb,
+                Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 05:19 BST, Sunset: 21:11 BST
+            </description>
+            <pubDate>Fri, 29 Jul 2022 09:36:33 GMT</pubDate>
+            <guid isPermaLink="false">
+                https://www.bbc.co.uk/weather/2643123-0-2022-07-29T07:30:00.000+0000
+            </guid>
+            <dc:date>2022-07-29T09:36:33Z</dc:date>
+            <georss:point>53.4809 -2.2374</georss:point>
+        </item>
+        <item>
+            <title>Saturday: Light Cloud, Minimum Temperature: 15Â°C (59Â°F) Maximum Temperature:
+                21Â°C (69Â°F)
+            </title>
+            <link>https://www.bbc.co.uk/weather/2643123/day1</link>
+            <description>Maximum Temperature: 21Â°C (69Â°F), Minimum Temperature: 15Â°C (59Â°F),
+                Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1017mb,
+                Humidity: 83%, UV Risk: 2, Pollution: Low, Sunrise: 05:21 BST, Sunset: 21:09 BST
+            </description>
+            <pubDate>Fri, 29 Jul 2022 09:36:33 GMT</pubDate>
+            <guid isPermaLink="false">
+                https://www.bbc.co.uk/weather/2643123-1-2022-07-29T07:30:00.000+0000
+            </guid>
+            <dc:date>2022-07-29T09:36:33Z</dc:date>
+            <georss:point>53.4809 -2.2374</georss:point>
+        </item>
+        <item>
+            <title>Sunday: Light Rain, Minimum Temperature: 13Â°C (56Â°F) Maximum Temperature: 20Â°C
+                (69Â°F)
+            </title>
+            <link>https://www.bbc.co.uk/weather/2643123/day2</link>
+            <description>Maximum Temperature: 20Â°C (69Â°F), Minimum Temperature: 13Â°C (56Â°F),
+                Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1015mb,
+                Humidity: 82%, UV Risk: 2, Pollution: Low, Sunrise: 05:22 BST, Sunset: 21:07 BST
+            </description>
+            <pubDate>Fri, 29 Jul 2022 09:36:33 GMT</pubDate>
+            <guid isPermaLink="false">
+                https://www.bbc.co.uk/weather/2643123-2-2022-07-29T07:30:00.000+0000
+            </guid>
+            <dc:date>2022-07-29T09:36:33Z</dc:date>
+            <georss:point>53.4809 -2.2374</georss:point>
+        </item>
+    </channel>
+</rss>
